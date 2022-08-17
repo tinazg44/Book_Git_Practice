@@ -1,0 +1,6 @@
+
+Java is a fun language !
+
+Some work here.
+
+Git is a bit confusing .
