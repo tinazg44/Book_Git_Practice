@@ -4,3 +4,4 @@ Java is a fun language !
 Some work here.
 
 Git is a bit confusing .
+I edit page 2 after I commit it.
