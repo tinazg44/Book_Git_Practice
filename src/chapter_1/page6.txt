@@ -1,0 +1,3 @@
+createing page 6 
+I'm createing page 6 which is not exicting page in my local repo on my comp 
+After I created it i will fetch it and update it in my local repo 
